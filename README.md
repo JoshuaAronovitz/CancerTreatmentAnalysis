@@ -7,5 +7,5 @@ Once you have installed Python and visual studio code, you can use the pip insta
 3) pip install plotly (then press enter)
 
 
-To run the code, press the run button in the top right of the visual studio interface. Then there should be a link which contains numbers in it. ctrl + click on that link. After you are finished, click on the terminal and do crtl + C
+To run the code, press the run button in the top right of the visual studio interface. Then there should be a link which contains numbers in it (it should look like https://string_of_numbers_and_periods. ctrl + click on that link. After you are finished, click on the terminal and do crtl + C
 
