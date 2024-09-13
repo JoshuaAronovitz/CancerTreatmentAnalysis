@@ -1,4 +1,4 @@
-# DuhBiology
+# Cancer Treatment Analysis
 This takes in excel files and it outputs graphs
 In order to run this file properly, you need to install the latest version of Python ( https://www.python.org/download/releases/2.5/msi/ ) and hover over downloads and click on the big box labeled python for windows. To run the code, you need to install visual studio code ( https://code.visualstudio.com/docs/setup/windows#_installation ).
 Once you have installed Python and visual studio code, you can use the pip install command in your terminal. type in the terminal the following:
